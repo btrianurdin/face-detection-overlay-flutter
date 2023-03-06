@@ -1,16 +1,14 @@
-# face_detection_overlay
+# Flutter Face Detection
+Object detection app built using [Google ML Kit](https://pub.dev/packages/google_ml_kit) Flutter library
 
-A new Flutter project.
+### Testing Project:
+- [x] Android 12
+- [ ] IOS
 
-## Getting Started
+## Demo UI
+| Detect Success   | Detect Failed |
+|------------------|:-------------:|
+| ![Detect Success!](https://raw.githubusercontent.com/btrianurdin/face-detection-overlay-flutter/main/Detect%20Success.png) | ![Detect Failed](https://raw.githubusercontent.com/btrianurdin/face-detection-overlay-flutter/main/Detect%20Failed.png) |
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+Twitter:  [@btrianurdin](https://twitter.com/btrianurdin)
